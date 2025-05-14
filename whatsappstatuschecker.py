@@ -12,7 +12,7 @@ driver.get("https://web.whatsapp.com")
 input("Devam etmek için QR kodunu okut ve Enter'a bas...")
 
 # Takip edilecek kişi (Buraya istediğin ismi yaz)
-TARGET_NAME = "Annemmm"
+TARGET_NAME = "Şulem"
 
 def find_chat(name):
     """Belirli bir kişiyle olan sohbeti aç"""
